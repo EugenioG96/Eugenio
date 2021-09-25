@@ -1,4 +1,4 @@
 #%%
 print('Hello world')
 # %%
-1+1
+print('Goodbye world')
